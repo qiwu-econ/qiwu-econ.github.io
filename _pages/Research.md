@@ -4,7 +4,7 @@ title: "Research"
 permalink: /Research/
 author_profile: true
 ---
-
+-----------
 Peer Effects in Product Choice and Market Competition: Evidence from a Mobile Communication Network (Job Market Paper)
 <blockquote>
 <em>This paper investigates whether and how peer influence in product choices affects product competition and product quality distribution in the Chinese smartphone market. Using a large-scale mobile-call network, I observe variations in peers' smartphone ownership. I exploit the inter-temporal variation in friend circles to construct individual taste controls to partial out unobserved preferences. In addition, I use the partially non-overlapping structure of friends and residential neighbors to construct instrumental variables to identify the causal influence of peers. I find that having one additional friend using a given product leads to a 10 percent increase in the average choice probability. Consumers are more likely to conform to affluent friends and choose products that are distinct in visible features, suggesting that the peer influence is motivated by conformity and status-seeking.  Using a structural demand model, I show that peer effects intensify product competition and favor middle-quality products, while pushing extra-low-quality products to smaller shares.</em>
