@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Qi Wu"
-excerpt: "About me"
+excerpt: "Qi Wu"
 author_profile: true
 redirect_from: 
   - /about/
