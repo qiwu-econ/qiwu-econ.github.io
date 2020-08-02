@@ -7,7 +7,7 @@ author_profile: true
 -----------
 
 Working Papers
----------------
+=================
 
 Peer Effects in Product Choice and Market Competition: Evidence from a Mobile Communication Network 
 
@@ -41,5 +41,7 @@ Funded by <strong>Small Grant in Labor Economics</strong> Cornell University
   </blockquote>
 
 Works in Progress
----------------
+=================
+
+
 
