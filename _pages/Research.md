@@ -14,7 +14,7 @@ Job Market Paper
   </blockquote>
 
 
-Information, Mobile Communication Patterns and Social Referrals, 2019
+Information, Mobile Communication Patterns and Social Referrals
 
 with Panle Jia Barwick, Yanyan Liu and Eleonora Patacchini. Under review
 
@@ -28,7 +28,7 @@ Referral information is more valuable for young workers, people switching jobs f
 
 Parental Retirement and Adult Children Labor Supply: Evidence From China
 
-with Xin Gao, 2020
+with Xin Gao
 
 Funded by <strong>Small Grant in Labor Economics</strong> Cornell University
 
