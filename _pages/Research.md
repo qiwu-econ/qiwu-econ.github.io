@@ -5,6 +5,10 @@ permalink: /Research/
 author_profile: true
 ---
 -----------
+
+Working Papers
+---------------
+
 Peer Effects in Product Choice and Market Competition: Evidence from a Mobile Communication Network 
 
 Job Market Paper
@@ -35,3 +39,7 @@ Funded by <strong>Small Grant in Labor Economics</strong> Cornell University
   <blockquote>
 <em>Aging and increasing retired population is a global challenge. Previous study suggests that retirement affects economic behaviors of the entire household, including consumption, health outcome, and time use. However, little is known about the intergenerational effects of parental retirement on adult children. This paper studies the effects of parental retirement on adult children's labor supply, both through intergenerational time (care) and monetary transfer. We exploit the mandatory retirement age as the cut-off point and apply a regression discontinuity (RD) approach to China Family Panel Studies. Our findings suggest that parental retirement reduces adult children's annual working hours by 3 to 4 percent, which is primarily driven by females. The reduction in working hours is driven by the lack of formal eldercare provision and parents' increasing demand of time and care from children due to the significant drop in parental self-rated health after retirement. Although adult children tend to increase both monetary and time transfer to parents, we find that parents tend to make disproportional transfers to sons compared to daughters. Daughters are more likely to make transfers to parents after retirement while sons are getting more help and support from sons. Moreover, we provide policy insights on formal care infrastructures, and intra-household gender inequality for countries like China facing increasing aging populations.</em>
   </blockquote>
+
+Works in Progress
+---------------
+
