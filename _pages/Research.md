@@ -23,7 +23,7 @@ Referral information is more valuable for young workers, people switching jobs f
 </blockquote>
 
 
-Parental Retirement and Adult Children Labor Supply: Evidence From China, funded by <strong>Small Grant in Labor Economics<strong> Cornell University
+Parental Retirement and Adult Children Labor Supply: Evidence From China, funded by <strong>Small Grant in Labor Economics</strong> Cornell University
 
 with Xin Gao, 2020
 
