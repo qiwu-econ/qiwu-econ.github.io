@@ -13,6 +13,7 @@ Peer Effects in Product Choice and Market Competition: Evidence from a Mobile Co
 
 
 Information, Mobile Communication Patterns and Social Referrals, 2019, with Panle Jia Barwick, Yanyan Liu and Eleonora Patacchini. Under review
+
 [SSRN](https://ssrn.com/abstract=3395633),[NBER Working Paper 25873](https://www.nber.org/papers/w25873)
 
   <blockquote>
@@ -22,6 +23,7 @@ Referral information is more valuable for young workers, people switching jobs f
 
 
 Parental Retirement and Adult Children Labor Supply: Evidence From China, with Xin Gao, 2020
+
 Funded by <strong>Small Grant in Labor Economics</strong> Cornell University
 
   <blockquote>
